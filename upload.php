@@ -1,3 +1,6 @@
+/**
+* Comment
+*/
 <?php
     $ds = DIRECTORY_SEPARATOR;
     $storeFolder = 'uploads/';
