@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <head>
     <meta charset="UTF-8">
-    <title>HTML5|Folder uploader, keeping recursive directory structure</title>
+    <title>Folder uploader, keeping recursive directory structure</title>
     <link href="css/dropzone.css" type="text/css" rel="stylesheet" />
 </head>
 <body>
